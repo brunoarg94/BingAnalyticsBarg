@@ -9,7 +9,7 @@ The workflow consists of several key components:
 1. **Collect Data**: Automated data ingestion pipeline designed to fetch and store news data efficiently using bing api.
                   
 2. **Store Data**: Utilizes a lakehouse architecture to store structured and unstructured data, which includes:
-   - A Lakehouse database
+   - A Lakehouse in fabric
    - A Semantic model for meaningful analysis
    - SQL analytics endpoints for complex queries
 3. **Prepare Data**: Data is processed and prepared using Microsoft Fabric notebooks. This includes cleansing, transformation, and enrichment steps.
