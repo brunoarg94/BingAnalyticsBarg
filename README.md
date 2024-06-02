@@ -19,8 +19,8 @@ The main objective is to demonstrate my knowledge in data analysis and data engi
 
 Skills used in this project: 
 
-Provision resources in Azure (Azure AI Service - Language Service, Bing News API)
-Azure Data Factory for data ingestion
-SQL and Pyspark for data transformation
-DAX and Power BI for data modelling and data visualization
+Provision resources in Azure (Azure AI Service - Language Service, Bing News API) /
+Azure Data Factory for data ingestion /
+SQL and Pyspark for data transformation /
+DAX and Power BI for data modelling and data visualization /
 
