@@ -1,5 +1,4 @@
-# BingAnalyticsBarg
-# Bing News Data Analytics
+# Bing News - Data Analytics Project
 
 ## Overview
 This repository contains the Bing News Data Analytics project, an end-to-end data engineering solution developed using Microsoft Fabric. The project demonstrates a full cycle of data analytics, from data collection through processing to visualization.
