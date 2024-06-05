@@ -25,3 +25,4 @@ SQL and Pyspark for data transformation /
 DAX and Power BI for data modelling and data visualization /
 
 ![Bing Analytics](https://github.com/brunoarg94/BingAnalyticsBarg/assets/81569673/1322bb19-2d96-4bd2-b951-e2b353c39516)
+![image](https://github.com/brunoarg94/BingAnalyticsBarg/assets/81569673/4263c7b2-1d43-49b9-9218-f8c42df24e4d)
