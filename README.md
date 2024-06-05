@@ -1,7 +1,7 @@
 # Bing News - Sentiment Analysis Project
 
 ## Overview
-This repository contains the Bing News Data Analytics project, an end-to-end data engineering solution developed using Microsoft Fabric. The project demonstrates a full cycle of data analytics, from data collection through processing to visualization.
+This repository contains information and files about Bing News Sentiment Analysis project, an end-to-end data engineering solution developed using Microsoft Fabric. The project demonstrates a full cycle of data analytics, from data collection through processing, AI and visualization.
 
 ## Project Workflow
 The workflow consists of several key components:
@@ -13,7 +13,8 @@ The workflow consists of several key components:
    - A Semantic model for meaningful analysis
    - SQL analytics endpoints for complex queries
 3. **Prepare Data**: Data is processed and prepared using Microsoft Fabric notebooks. This includes cleansing, transformation, and enrichment steps.
-4. **Create Visualizations**: Data visualizations are created using Power BI to provide insights and quick interpretations of the processed data.
+4. **AI Sentiment Analysis** - Classification Language using Azure AI Service - Language Service
+5. **Create Visualizations**: Data visualizations are created using Power BI to provide insights and quick interpretations of the processed data.
 
 The main objective is to demonstrate my knowledge in data analysis and data engineering:
 
