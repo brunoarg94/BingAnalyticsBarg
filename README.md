@@ -16,7 +16,6 @@ The workflow consists of several key components:
 4. **AI Sentiment Analysis** - Classification algorithm using Azure AI Service - Language Service
 5. **Create Visualizations**: Data visualizations are created using Power BI to provide insights and quick interpretations of the processed data.
 
-The main objective is to demonstrate my knowledge in data analysis and data engineering:
 
 Skills used in this project: 
 
