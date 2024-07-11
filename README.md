@@ -6,7 +6,7 @@ This repository contains information and files about Bing News Sentiment Analysi
 ## Project Workflow
 The workflow consists of several key components:
 
-1. **Collect Data**: Automated data ingestion pipeline (Data Factory) designed to fetch and store news data efficiently using bing api.
+1. **Collect Data**: Automated data ingestion pipeline (Data Factory) designed to fetch and store news data efficiently using bing api. (https://learn.microsoft.com/en-us/bing/search-apis/bing-news-search/reference/endpoints)
                   
 2. **Store Data**: Utilizes a lakehouse architecture to store structured and unstructured data, which includes:
    - A Lakehouse in fabric
